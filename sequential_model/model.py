@@ -15,11 +15,12 @@ class SeqModel:
 
         model = tf.keras.Model(input,output)
         print(model.summary())
+
         """
-       Total params: 2
-       Trainable params: 2
-       Non-trainable params: 0
-       """
+        Total params: 2
+        Trainable params: 2
+        Non-trainable params: 0
+        """
 
     def execute(self):
         (x, y) = self.make_random_data()
@@ -32,7 +33,7 @@ class SeqModel:
         self.model.compile(optimizer = 'sgd', loss = 'mse')
         self.model.save('./data/simple_model.h5') # 텐서2.0에서 파일의 확장자가 h5로 바뀌었음.
 
-    """
+        """
         history = self.model.fit(x_train, y_train, epochs = 50, validation_split = 0.3)
         epochs = np.arange(1, 50+1)
         plt.plot(epochs, history.history['loss'], label = 'Training loss')
@@ -40,7 +41,7 @@ class SeqModel:
         plt.ylabel('Loss')
         plt.legend()
         plt.show()
-    """
+        """
 
     def load_model(self):
         (x,y) = self.make_random_data()

@@ -45,7 +45,11 @@ class MnistTest:
                       loss='sparse_categorical_crossentropy',
                       metrics=['accuracy'])
 
-        
+
+        # 파일에 저장해서 로드해 불러오기 테스트
+        model.save('./data/mnist_model.h5') # 텐서2.0에서 파일의 확장자가 h5로 바뀌었음.
+
+
         # 러닝
         model.fit(train_images, train_labels, epochs=5)
 
@@ -60,6 +64,27 @@ class MnistTest:
 
         arr = [predictions, test_labels, test_images]
         return arr
+
+    """
+        # 아래 테스트 하다가 말았음. 
+    
+    def load_model(self):
+        fashion_mnist = keras.datasets.fashion_mnist
+        (train_images, train_labels), (test_images, test_labels) = fashion_mnist.load_data()
+
+        load_model = tf.keras.models.load_model('./data/mnist_model.h5')
+
+        history = load_model.fit(train_images, train_labels, epochs=50, validation_split=0.3)
+        
+        epochs = np.arange(1, 50 + 1)
+        plt.plot(epochs, history.history['loss'], label='Training loss')
+        plt.xlabel('Epoch')
+        plt.ylabel('Loss')
+        plt.legend()
+        plt.show()
+    """
+
+
 
     def plot_image(self, i, predictions_array, true_label, img)->[]:
         print(' === plot_image 로 진입 ===')
