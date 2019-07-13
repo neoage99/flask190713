@@ -1,0 +1,445 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="cc88c278-9947-4d1a-bd3b-9240a6953d12" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/../daeun_day3/data/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../daeun_day3/data/population_in_Seoul.xls" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../daeun_day3/seoul_cctv/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../daeun_day4/chapter_1_word2vec/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../daeun_day4/chapter_1_word2vec/dog_and_cat.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../daeun_day4/chapter_2_svm/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../daeun_day4/chapter_2_svm/data/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../daeun_day4/chapter_2_svm/data_mining.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../daeun_day4/chapter_2_svm/plotting.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../daeun_day4/chapter_2_svm/testing.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../flask/.idea/flask.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../flask/app.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../flask/calculator/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../flask/calculator/controller.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../flask/calculator/model.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../flask/static/css/ui_calc.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../flask/templates/ai_calc.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../flask/templates/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../flask/templates/titanic.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../flask/templates/ui_calc.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../flask/titanic/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../flask/titanic/controller.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../flask/titanic/data/test.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../flask/titanic/data/train.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../flask/titanic/model.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/flask190713.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mnist_test/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mnist_test/data/t10k-images.idx3-ubyte" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mnist_test/data/t10k-labels.idx1-ubyte" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mnist_test/data/train-images.idx3-ubyte" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mnist_test/data/train-labels.idx1-ubyte" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mnist_test/mnist_load.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sequential_model/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sequential_model/model.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tf_2_test/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tf_2_test/tf_2_add.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tf_2_test/tf_2_mean.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tf_function/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tf_function/model.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tf_function/my_model.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../daeun_day1-2" beforeDir="false" afterPath="$PROJECT_DIR$/../daeun_day1-2" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../daeun_day2/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../daeun_day2/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../daeun_day2/crawling/samsung_2018.py" beforeDir="false" afterPath="$PROJECT_DIR$/../daeun_day2/crawling/samsung_2018.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../tatanic/gender_submission.csv" beforeDir="false" />
+    </list>
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/sequential_model/__init__.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="198">
+              <caret line="9" column="21" selection-start-line="9" selection-start-column="21" selection-end-line="9" selection-end-column="21" />
+              <folding>
+                <element signature="e#0#43#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/sequential_model/model.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="213">
+              <caret line="25" column="27" selection-start-line="25" selection-start-column="27" selection-end-line="25" selection-end-column="27" />
+              <folding>
+                <element signature="e#0#23#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/tf_function/model.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="396">
+              <caret line="18" column="79" selection-start-line="18" selection-start-column="79" selection-end-line="18" selection-end-column="79" />
+              <folding>
+                <element signature="e#0#28#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/tf_function/my_model.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state>
+              <caret column="14" selection-start-column="14" selection-end-column="14" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/app.py" />
+        <option value="$PROJECT_DIR$/tf_2_test/tf_2_add.py" />
+        <option value="$PROJECT_DIR$/mnist_test/mnist.py" />
+        <option value="$PROJECT_DIR$/tf_2_test/__init__.py" />
+        <option value="$PROJECT_DIR$/tf_2_test/tf_2_mean.py" />
+        <option value="$PROJECT_DIR$/mnist_test/__init__.py" />
+        <option value="$PROJECT_DIR$/mnist_test/mnist_load.py" />
+        <option value="$PROJECT_DIR$/sequential_model/model/model.py" />
+        <option value="$PROJECT_DIR$/sequential_model/model/__init__.py" />
+        <option value="$PROJECT_DIR$/sequential_model/__init__.py" />
+        <option value="$PROJECT_DIR$/sequential_model/model.py" />
+        <option value="$PROJECT_DIR$/tf_function/model.py" />
+        <option value="$PROJECT_DIR$/tf_function/my_model.py" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="-7" />
+    <option name="width" value="974" />
+    <option name="height" value="1047" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="Scope" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="flask190713" type="b2602c69:ProjectViewProjectNode" />
+              <item name="flask190713" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="flask190713" type="b2602c69:ProjectViewProjectNode" />
+              <item name="flask190713" type="462c0819:PsiDirectoryNode" />
+              <item name="tf_function" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="ASKED_SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\ezen\PycharmProjects\flask190713\sequential_model" />
+      <recent name="C:\Users\ezen\PycharmProjects\flask190713\mnist_test\data" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Python.__init__ (2)">
+    <configuration name="__init__ (1)" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="flask190713" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/mnist_test" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/mnist_test/__init__.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="__init__ (2)" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="flask190713" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/sequential_model" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/sequential_model/__init__.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="__init__" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="flask190713" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/tf_2_test" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/tf_2_test/__init__.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="app" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="flask190713" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/app.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="mnist_load" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="flask190713" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/mnist_test" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/mnist_test/mnist_load.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.__init__ (2)" />
+        <item itemvalue="Python.__init__ (1)" />
+        <item itemvalue="Python.__init__" />
+        <item itemvalue="Python.mnist_load" />
+        <item itemvalue="Python.app" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="cc88c278-9947-4d1a-bd3b-9240a6953d12" name="Default Changelist" comment="" />
+      <created>1562982763818</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1562982763818</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
+    <editor active="true" />
+    <layout>
+      <window_info id="Favorites" side_tool="true" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.24973656" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info anchor="bottom" id="Version Control" />
+      <window_info anchor="bottom" id="Python Console" />
+      <window_info anchor="bottom" id="Terminal" weight="0.329718" />
+      <window_info anchor="bottom" id="Event Log" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.329718" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+    </layout>
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/app.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="198">
+          <caret line="9" column="13" selection-start-line="9" selection-start-column="13" selection-end-line="9" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/tf_2_test/tf_2_add.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="132">
+          <caret line="6" column="21" selection-start-line="6" selection-start-column="21" selection-end-line="6" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/mnist_test/mnist.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-1899">
+          <caret line="7" column="13" lean-forward="true" selection-start-line="7" selection-start-column="13" selection-end-line="7" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/tf_2_test/tf_2_mean.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="308">
+          <caret line="14" column="36" selection-start-line="14" selection-start-column="36" selection-end-line="14" selection-end-column="36" />
+          <folding>
+            <element signature="e#0#23#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/tf_2_test/__init__.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <folding>
+            <element signature="e#0#34#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/mnist_test/mnist_load.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-205">
+          <caret line="62" column="9" lean-forward="true" selection-start-line="62" selection-start-column="9" selection-end-line="62" selection-end-column="9" />
+          <folding>
+            <element signature="e#0#23#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/sequential_model/model/__init__.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/mnist_test/__init__.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="308">
+          <caret line="14" selection-start-line="14" selection-end-line="14" />
+          <folding>
+            <element signature="e#0#43#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/sequential_model/__init__.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="198">
+          <caret line="9" column="21" selection-start-line="9" selection-start-column="21" selection-end-line="9" selection-end-column="21" />
+          <folding>
+            <element signature="e#0#43#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/sequential_model/model.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="213">
+          <caret line="25" column="27" selection-start-line="25" selection-start-column="27" selection-end-line="25" selection-end-column="27" />
+          <folding>
+            <element signature="e#0#23#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/tf_function/model.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="396">
+          <caret line="18" column="79" selection-start-line="18" selection-start-column="79" selection-end-line="18" selection-end-column="79" />
+          <folding>
+            <element signature="e#0#28#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/tf_function/my_model.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="14" selection-start-column="14" selection-end-column="14" />
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>
