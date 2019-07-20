@@ -3,6 +3,8 @@ import numpy as np
 import matplotlib.pyplot as plt
 from simple_classification_algorithm.perceptron import Perceptron
 from matplotlib.colors import ListedColormap
+from simple_classification_algorithm.adaline import Adaline
+
 class IrisModel:
     def __init__(self):
         self.iris = pd.read_csv('https://archive.ics.uci.edu/ml/'
@@ -64,7 +66,7 @@ class IrisModel:
                                np.arange(x2_min, x2_max, resolution))
         Z = classifier.predict(np.array([xx1.ravel(), xx2.ravel()]).T)
         Z = Z.reshape(xx1.shape)
-        plt.contour(xx1, xx2, Z, alpha=0.3, cmap= cmap)
+        plt.contourf(xx1, xx2, Z, alpha=0.3, cmap= cmap)
         plt.xlim(xx1.min(), xx1.max())
         plt.ylim(xx2.min(), xx2.max())
 
@@ -79,4 +81,21 @@ class IrisModel:
         plt.xlabel('sepal length[cm]')
         plt.ylabel('petal length[cm]')
         plt.legend(loc = 'upper left')
+        plt.show()
+
+    def draw_adaline_graph(self):
+        X = self.X
+        y = self.y
+        X_std = np.copy(X)
+        X_std[:,0] = (X[:,0] - X[:,0].mean())/X[:,0].std()
+        X_std[:,1] = (X[:,1] - X[:,1].mean())/X[:,1].std()
+        ada = Adaline(eta=0.01, n_iter=20, random_state=1)
+        ada.fit(X_std, y)
+        
+        plt.title('Adaline - Stochastic Gradient Descent')
+        plt.plot(range(1, len(ada.cost_) + 1), ada.cost_, marker='o')
+        plt.xlabel('Epoch')
+        plt.ylabel('Average Cost')
+
+        plt.tight_layout()
         plt.show()

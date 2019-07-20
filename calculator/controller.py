@@ -3,6 +3,7 @@ from calculator.model import CalculatorModel
 class CalculatorController:
     def __init__(self):
         self.model = CalculatorModel()
+
     @staticmethod
     def print_menu():
         print('0.  종료')
@@ -10,7 +11,7 @@ class CalculatorController:
         print('2.  -')
         print('3.  *')
         print('4.  /')
-        menu = input('메뉴 선택\n')
+        menu = input('메뉴 선택/n')
         return int(menu)
 
     def run(self):
@@ -24,4 +25,4 @@ class CalculatorController:
 
     @staticmethod
     def show(param):
-        print('RESULT : %s' % param)
+        print('RESULT : %s\n' % param)

@@ -24,6 +24,23 @@ class CalculatorModel:
 
     @tf.function
     def minus(self):
+        result = tf.subtract(self.a, self.b)
+        return result
+
+    @tf.function
+    def multi(self):
+        result = tf.multiply(self.a, self.b)
+        return result
+
+    @tf.function
+    def divid(self):
+        result = tf.divide(self.a, self.b)
+        return result
+
+
+    """
+    @tf.function
+    def minus(self):
         w1 = tf.placeholder(tf.float32, name='w1')
         w2 = tf.placeholder(tf.float32, name='w2')
         feed_dict = {'w1': 8.0, 'w2': 2.0}
@@ -37,7 +54,7 @@ class CalculatorModel:
         saver.save(sess, './saved_sub_model/model', global_step=1000)
 
     @tf.function
-    def create_multi_model(self):
+    def create_mul_model(self):
         w1 = tf.placeholder(tf.float32, name='w1')
         w2 = tf.placeholder(tf.float32, name='w2')
         feed_dict = {'w1': 8.0, 'w2': 2.0}
@@ -51,7 +68,7 @@ class CalculatorModel:
         saver.save(sess, './saved_mul_model/model', global_step=1000)
 
     @tf.function
-    def create_divid_model(self):
+    def create_div_model(self):
         w1 = tf.placeholder(tf.float32, name='w1')
         w2 = tf.placeholder(tf.float32, name='w2')
         feed_dict = {'w1': 8.0, 'w2': 2.0}
@@ -63,3 +80,4 @@ class CalculatorModel:
         result = sess.run(r, {w1: feed_dict['w1'], w2: feed_dict['w2']})
         print('TF 나눗셈결과 {}'.format(result))
         saver.save(sess, './saved_div_model/model', global_step=1000)
+    """

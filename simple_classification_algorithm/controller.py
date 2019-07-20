@@ -11,6 +11,7 @@ class IrisController:
         print('2. 아이리스 산점도 그리기')
         print('3. 아이리스 산점도 그리기')
         print('4. 2차원 데이터셋의 결정경계 시각화')
+        print('5. Adaline 그래프 그리기')
         return int(input('메뉴 선택 \n'))
 
     @staticmethod
@@ -31,4 +32,7 @@ class IrisController:
                 model.draw_errors()
             elif menu == 4:
                 model.plot_decision_regions()
-
+            elif menu == 5:
+                model.draw_adaline_graph()
+            else :
+                self.show(model.hook(menu))
