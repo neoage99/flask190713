@@ -4,6 +4,9 @@ class LenaModel:
     def __init__(self):
         self.fname = './data/lena.jpg'
 
+        """
+            https://opencv-python.readthedocs.io/en/latest/doc/01.imageStart/imageStart.html
+        """
     def execute(self):
 
         print('cv2 버전: %s' %cv2.__version__)
@@ -20,7 +23,7 @@ class LenaModel:
         cv2.imshow('Original', original)
         cv2.imshow('Gray', gray)
         cv2.imshow('Unchanged', unchanged)
-        cv2.waitkey(0)  # 키보드 입력시간 대기 - 0 이면 무한대기
+        cv2.waitKey(0)  # 키보드 입력시간 대기 - 0 이면 무한대기
 
         cv2.destroyAllWindows()
 
