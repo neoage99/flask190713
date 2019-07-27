@@ -27,9 +27,8 @@
       <change afterPath="$PROJECT_DIR$/../flask/titanic/data/test.csv" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../flask/titanic/data/train.csv" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../flask/titanic/model.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/constitution/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/fbprophet_test/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/one_hot/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/news_crawl/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/news_crawl/crawler.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../daeun_day1-2" beforeDir="false" afterPath="$PROJECT_DIR$/../daeun_day1-2" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../daeun_day2/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../daeun_day2/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../daeun_day2/crawling/samsung_2018.py" beforeDir="false" afterPath="$PROJECT_DIR$/../daeun_day2/crawling/samsung_2018.py" afterDir="false" />
@@ -44,28 +43,33 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/fbprophet_test/__init__.py">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/news_crawl/__init__.py">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="252">
-              <caret line="14" selection-start-line="14" selection-end-line="14" />
+              <caret line="92" column="53" selection-start-line="92" selection-start-column="53" selection-end-line="92" selection-end-column="53" />
               <folding>
-                <element signature="e#0#29#0" expanded="true" />
+                <element signature="e#0#32#0" expanded="true" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/constitution/__init__.py">
+        <entry file="file://$PROJECT_DIR$/news_crawl/crawler.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-497">
-              <caret line="7" selection-start-line="7" selection-end-line="7" />
+            <state relative-caret-position="1447">
+              <caret line="149" selection-start-line="149" selection-end-line="149" />
               <folding>
-                <element signature="e#0#31#0" expanded="true" />
+                <element signature="e#0#9#0" expanded="true" />
               </folding>
             </state>
           </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/news_crawl/data/news_1.png">
+          <provider selected="true" editor-type-id="images" />
         </entry>
       </file>
     </leaf>
@@ -80,6 +84,7 @@
   <component name="FindInProjectRecents">
     <findStrings>
       <find>cv</find>
+      <find>C:</find>
     </findStrings>
   </component>
   <component name="Git.Settings">
@@ -88,10 +93,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/app.py" />
-        <option value="$PROJECT_DIR$/tf_2_test/tf_2_add.py" />
-        <option value="$PROJECT_DIR$/mnist_test/mnist.py" />
-        <option value="$PROJECT_DIR$/tf_2_test/__init__.py" />
         <option value="$PROJECT_DIR$/tf_2_test/tf_2_mean.py" />
         <option value="$PROJECT_DIR$/mnist_test/__init__.py" />
         <option value="$PROJECT_DIR$/sequential_model/model/model.py" />
@@ -137,6 +138,12 @@
         <option value="$PROJECT_DIR$/one_hot/__init__.py" />
         <option value="$PROJECT_DIR$/fbprophet_test/__init__.py" />
         <option value="$PROJECT_DIR$/constitution/__init__.py" />
+        <option value="$PROJECT_DIR$/news_crawling/__init__.py" />
+        <option value="$PROJECT_DIR$/news_crawling/crawler.py" />
+        <option value="$PROJECT_DIR$/news/crawler.py" />
+        <option value="$PROJECT_DIR$/news/__init__.py" />
+        <option value="$PROJECT_DIR$/news_crawl/__init__.py" />
+        <option value="$PROJECT_DIR$/news_crawl/crawler.py" />
       </list>
     </option>
   </component>
@@ -174,6 +181,17 @@
             <path>
               <item name="flask190713" type="b2602c69:ProjectViewProjectNode" />
               <item name="flask190713" type="462c0819:PsiDirectoryNode" />
+              <item name="news_crawl" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="flask190713" type="b2602c69:ProjectViewProjectNode" />
+              <item name="flask190713" type="462c0819:PsiDirectoryNode" />
+              <item name="news_crawl" type="462c0819:PsiDirectoryNode" />
+              <item name="data" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="flask190713" type="b2602c69:ProjectViewProjectNode" />
+              <item name="flask190713" type="462c0819:PsiDirectoryNode" />
               <item name="one_hot" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
@@ -189,11 +207,11 @@
   </component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\ezen\PycharmProjects\flask190713\news" />
       <recent name="C:\Users\ezen\PycharmProjects\flask190713\cat_dog\data\train" />
       <recent name="C:\Users\ezen\PycharmProjects\flask190713\cat_dog\data" />
       <recent name="C:\Users\ezen\PycharmProjects\flask190713\mail_checker\spam" />
       <recent name="C:\Users\ezen\PycharmProjects\flask190713\mail_checker\ham" />
-      <recent name="C:\Users\ezen\PycharmProjects\flask190713\opencv_test\data" />
     </key>
   </component>
   <component name="RunDashboard">
@@ -208,7 +226,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.__init__ (2)">
+  <component name="RunManager" selected="Python.__init__ (3)">
     <configuration name="__init__ (1)" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="flask190713" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -259,11 +277,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/cat_dog" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/news_crawl" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/cat_dog/__init__.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/news_crawl/__init__.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -293,7 +311,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="__init__ (5)" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="__init__" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="flask190713" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -301,11 +319,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/stock" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/news" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/stock/__init__.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/news/__init__.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -316,11 +334,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.__init__ (3)" />
+        <item itemvalue="Python.__init__" />
         <item itemvalue="Python.__init__ (2)" />
         <item itemvalue="Python.__init__ (1)" />
         <item itemvalue="Python.__init__ (4)" />
-        <item itemvalue="Python.__init__ (5)" />
-        <item itemvalue="Python.__init__ (3)" />
       </list>
     </recent_temporary>
   </component>
@@ -341,12 +359,12 @@
     <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.24973656" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.24973656" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.329718" />
+      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.329718" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.3991323" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -361,13 +379,6 @@
     </layout>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/tf_2_test/tf_2_add.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="132">
-          <caret line="6" column="21" selection-start-line="6" selection-start-column="21" selection-end-line="6" selection-end-column="21" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/mnist_test/mnist.py" />
     <entry file="file://$PROJECT_DIR$/tf_2_test/tf_2_mean.py">
       <provider selected="true" editor-type-id="text-editor">
@@ -680,6 +691,16 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/fbprophet_test/__init__.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="252">
+          <caret line="14" selection-start-line="14" selection-end-line="14" />
+          <folding>
+            <element signature="e#0#29#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/constitution/__init__.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="-497">
@@ -690,15 +711,45 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/fbprophet_test/__init__.py">
+    <entry file="file://$PROJECT_DIR$/news_crawling/__init__.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="252">
-          <caret line="14" selection-start-line="14" selection-end-line="14" />
+        <state relative-caret-position="529">
+          <caret line="105" column="10" lean-forward="true" selection-end-line="105" selection-end-column="10" />
           <folding>
-            <element signature="e#0#29#0" expanded="true" />
+            <element signature="e#0#32#0" expanded="true" />
           </folding>
         </state>
       </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/Anaconda3/envs/tensorflow2/lib/site-packages/PIL/Image.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="358">
+          <caret line="1990" selection-start-line="1990" selection-end-line="1990" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/news_crawl/__init__.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="252">
+          <caret line="92" column="53" selection-start-line="92" selection-start-column="53" selection-end-line="92" selection-end-column="53" />
+          <folding>
+            <element signature="e#0#32#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/news_crawl/crawler.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1447">
+          <caret line="149" selection-start-line="149" selection-end-line="149" />
+          <folding>
+            <element signature="e#0#9#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/news_crawl/data/news_1.png">
+      <provider selected="true" editor-type-id="images" />
     </entry>
   </component>
 </project>
