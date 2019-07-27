@@ -27,35 +27,13 @@
       <change afterPath="$PROJECT_DIR$/../flask/titanic/data/test.csv" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../flask/titanic/data/train.csv" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../flask/titanic/model.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/flask190713.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/cat_dog/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/cnn_cfar/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/cnn_cfar/controller.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/cnn_cfar/model.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/mnist_test/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/mnist_test/data/t10k-images.idx3-ubyte" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/mnist_test/data/t10k-labels.idx1-ubyte" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/mnist_test/data/train-images.idx3-ubyte" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/mnist_test/data/train-labels.idx1-ubyte" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/mnist_test/mnist_load.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/sequential_model/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/sequential_model/model.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/tf_2_test/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/tf_2_test/tf_2_add.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/tf_2_test/tf_2_mean.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/stock/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/stock/aI_Trader.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/stock/trading.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../daeun_day1-2" beforeDir="false" afterPath="$PROJECT_DIR$/../daeun_day1-2" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../daeun_day2/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../daeun_day2/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../daeun_day2/crawling/samsung_2018.py" beforeDir="false" afterPath="$PROJECT_DIR$/../daeun_day2/crawling/samsung_2018.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/mail_checker/controller.py" beforeDir="false" afterPath="$PROJECT_DIR$/mail_checker/controller.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/mail_checker/data/ham.txt" beforeDir="false" afterPath="$PROJECT_DIR$/mail_checker/ham/ham.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/mail_checker/data/spam.txt" beforeDir="false" afterPath="$PROJECT_DIR$/mail_checker/spam/spam.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/mail_checker/mail_checker_model.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/mail_checker/model.py" beforeDir="false" afterPath="$PROJECT_DIR$/mail_checker/model.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../tatanic/gender_submission.csv" beforeDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -67,65 +45,33 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/cat_dog/__init__.py">
+        <entry file="file://$PROJECT_DIR$/stock/trading.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="810">
-              <caret line="47" selection-start-line="47" selection-end-line="47" />
-              <folding>
-                <element signature="e#0#9#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/cnn_cfar/model.py">
-          <provider selected="true" editor-type-id="text-editor" />
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/cnn_cfar/controller.py">
-          <provider selected="true" editor-type-id="text-editor" />
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/mail_checker/controller.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="810">
-              <caret line="45" column="36" selection-start-line="45" selection-start-column="36" selection-end-line="45" selection-end-column="36" />
+            <state relative-caret-position="54">
+              <caret line="3" column="29" selection-start-line="3" selection-start-column="29" selection-end-line="3" selection-end-column="29" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/cnn_cfar/__init__.py">
+        <entry file="file://$PROJECT_DIR$/stock/aI_Trader.py">
+          <provider selected="true" editor-type-id="text-editor" />
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/stock/__init__.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="252">
-              <caret line="14" column="21" selection-start-line="14" selection-start-column="21" selection-end-line="14" selection-end-column="21" />
-              <folding>
-                <element signature="e#0#23#0" expanded="true" />
-              </folding>
+            <state relative-caret-position="54">
+              <caret line="3" column="29" selection-start-line="3" selection-start-column="29" selection-end-line="3" selection-end-column="29" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/mail_checker/model.py">
+        <entry file="file://$PROJECT_DIR$/app.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="2484">
-              <caret line="144" column="24" selection-start-line="144" selection-start-column="24" selection-end-line="144" selection-end-column="24" />
-              <folding>
-                <element signature="e#0#59#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/mail_checker/__init__.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="72">
-              <caret line="4" column="14" selection-start-line="4" selection-start-column="14" selection-end-line="4" selection-end-column="14" />
+            <state relative-caret-position="162">
+              <caret line="9" column="13" selection-start-line="9" selection-start-column="13" selection-end-line="9" selection-end-column="13" />
             </state>
           </provider>
         </entry>
@@ -187,10 +133,14 @@
         <option value="$PROJECT_DIR$/opencv_test/model.py" />
         <option value="$PROJECT_DIR$/cnn_cfar/model.py" />
         <option value="$PROJECT_DIR$/cnn_cfar/controller.py" />
-        <option value="$PROJECT_DIR$/cat_dog/__init__.py" />
         <option value="$PROJECT_DIR$/mail_checker/model.py" />
         <option value="$PROJECT_DIR$/mail_checker/controller.py" />
         <option value="$PROJECT_DIR$/cnn_cfar/__init__.py" />
+        <option value="$PROJECT_DIR$/cat_dog/__init__.py" />
+        <option value="$PROJECT_DIR$/stock/__init__.py" />
+        <option value="$PROJECT_DIR$/stock/trading.py" />
+        <option value="$PROJECT_DIR$/stock/AI_Trader.py" />
+        <option value="$PROJECT_DIR$/stock/aI_Trader.py" />
       </list>
     </option>
   </component>
@@ -199,7 +149,9 @@
     <option name="width" value="974" />
     <option name="height" value="1047" />
   </component>
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectView">
     <navigator proportions="" version="1">
       <foldersAlwaysOnTop value="true" />
@@ -216,23 +168,12 @@
             <path>
               <item name="flask190713" type="b2602c69:ProjectViewProjectNode" />
               <item name="flask190713" type="462c0819:PsiDirectoryNode" />
-              <item name="cat_dog" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="flask190713" type="b2602c69:ProjectViewProjectNode" />
-              <item name="flask190713" type="462c0819:PsiDirectoryNode" />
-              <item name="cat_dog" type="462c0819:PsiDirectoryNode" />
-              <item name="data" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="flask190713" type="b2602c69:ProjectViewProjectNode" />
-              <item name="flask190713" type="462c0819:PsiDirectoryNode" />
-              <item name="cnn_cfar" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="flask190713" type="b2602c69:ProjectViewProjectNode" />
-              <item name="flask190713" type="462c0819:PsiDirectoryNode" />
               <item name="mail_checker" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="flask190713" type="b2602c69:ProjectViewProjectNode" />
+              <item name="flask190713" type="462c0819:PsiDirectoryNode" />
+              <item name="stock" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -351,7 +292,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="__init__ (5)" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="__init__" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="flask190713" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -359,11 +300,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/simple_classification_algorithm" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/tf_2_test" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/simple_classification_algorithm/__init__.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/tf_2_test/__init__.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -375,10 +316,10 @@
     <recent_temporary>
       <list>
         <item itemvalue="Python.__init__ (3)" />
+        <item itemvalue="Python.__init__" />
         <item itemvalue="Python.__init__ (1)" />
         <item itemvalue="Python.__init__ (4)" />
         <item itemvalue="Python.__init__ (2)" />
-        <item itemvalue="Python.__init__ (5)" />
       </list>
     </recent_temporary>
   </component>
@@ -399,18 +340,18 @@
     <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.24973656" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.24973656" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.329718" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.329718" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.3991323" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
       <window_info anchor="bottom" id="Version Control" order="7" />
-      <window_info anchor="bottom" id="Terminal" order="8" weight="0.329718" />
+      <window_info anchor="bottom" id="Terminal" order="8" visible="true" weight="0.329718" />
       <window_info anchor="bottom" id="Event Log" order="9" side_tool="true" />
       <window_info anchor="bottom" id="Python Console" order="10" weight="0.329718" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
@@ -419,13 +360,6 @@
     </layout>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/app.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="198">
-          <caret line="9" column="13" selection-start-line="9" selection-start-column="13" selection-end-line="9" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/tf_2_test/tf_2_add.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="132">
@@ -647,35 +581,42 @@
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/mail_checker/mail_checker_model.py" />
-    <entry file="file://$PROJECT_DIR$/cat_dog/__init__.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="810">
-          <caret line="47" selection-start-line="47" selection-end-line="47" />
-          <folding>
-            <element signature="e#0#9#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/cnn_cfar/model.py">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
     <entry file="file://$PROJECT_DIR$/cnn_cfar/controller.py">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
+    <entry file="file://$PROJECT_DIR$/cat_dog/__init__.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="457">
+          <caret line="46" column="40" selection-start-line="46" selection-start-column="40" selection-end-line="46" selection-end-column="40" />
+          <folding>
+            <element signature="e#0#9#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/Anaconda3/envs/tensorflow2/lib/site-packages/tensorflow/python/keras/engine/training_generator.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="250">
+          <caret line="479" selection-start-line="479" selection-end-line="479" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/mail_checker/controller.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="810">
+        <state relative-caret-position="529">
           <caret line="45" column="36" selection-start-line="45" selection-start-column="36" selection-end-line="45" selection-end-column="36" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/mail_checker/model.py">
+    <entry file="file://$PROJECT_DIR$/cnn_cfar/__init__.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="2484">
-          <caret line="144" column="24" selection-start-line="144" selection-start-column="24" selection-end-line="144" selection-end-column="24" />
+        <state relative-caret-position="594">
+          <caret line="33" column="42" selection-start-line="33" selection-start-column="42" selection-end-line="33" selection-end-column="42" />
           <folding>
-            <element signature="e#0#59#0" expanded="true" />
+            <element signature="e#0#23#0" expanded="true" />
           </folding>
         </state>
       </provider>
@@ -687,15 +628,39 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/cnn_cfar/__init__.py">
+    <entry file="file://$PROJECT_DIR$/mail_checker/model.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="252">
-          <caret line="14" column="21" selection-start-line="14" selection-start-column="21" selection-end-line="14" selection-end-column="21" />
+        <state relative-caret-position="529">
+          <caret line="144" column="24" selection-start-line="144" selection-start-column="24" selection-end-line="144" selection-end-column="24" />
           <folding>
-            <element signature="e#0#23#0" expanded="true" />
+            <element signature="e#0#59#0" expanded="true" />
           </folding>
         </state>
       </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="162">
+          <caret line="9" column="13" selection-start-line="9" selection-start-column="13" selection-end-line="9" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/stock/__init__.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="54">
+          <caret line="3" column="29" selection-start-line="3" selection-start-column="29" selection-end-line="3" selection-end-column="29" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/stock/trading.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="54">
+          <caret line="3" column="29" selection-start-line="3" selection-start-column="29" selection-end-line="3" selection-end-column="29" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/stock/aI_Trader.py">
+      <provider selected="true" editor-type-id="text-editor" />
     </entry>
   </component>
 </project>
